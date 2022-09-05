@@ -5,7 +5,7 @@ int main() {
     
     int size_of_pattern_side;
     
-    // Get no_of_rows and no_of_cols as input
+    // Get size_of_pattern_side as input
     cin >> size_of_pattern_side;
     
     // Output the pattern
